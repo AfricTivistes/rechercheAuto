@@ -1,0 +1,12 @@
+**Informations géopolitiques sur la Mauritanie en 2024**
+
+* **Nom du pays**: La République islamique de Mauritanie [(Source: France Diplomatie)](https://www.diplomatie.gouv.fr/fr/dossiers-pays/mauritanie/presentation-de-la-mauritanie/)
+* **Langues officielles**: L'arabe et le français [(Source: France Diplomatie)](https://www.diplomatie.gouv.fr/fr/dossiers-pays/mauritanie/presentation-de-la-mauritanie/)
+* **Démographie**: En 2024, la population de la Mauritanie est estimée à 4,3 millions d'habitants [(Source: Worldometer)](https://www.worldometers.info/fr/population/mauritanie-population/)
+* **Corps électoral**: Le corps électoral mauritanien est composé de plus de 1,4 million d'électeurs inscrits [(Source: Africa Elects)](https://africanelects.blogspot.com/2020/06/mauritanie-elections-2020.html)
+* **Géographie**: La Mauritanie couvre une superficie de 1,03 million de km², avec une frontière terrestre de 5 074 km et une côte de 754 km [(Source: Wikipédia)](https://fr.wikipedia.org/wiki/G%C3%A9ographie_de_la_Mauritanie)
+* **Économie**: L'économie mauritanienne est basée principalement sur l'agriculture, la pêche et l'exploitation minière [(Source: Banque mondiale)](https://www.banquemondiale.org/fr/country/mauritania/overview)
+* **Régime politique**: La Mauritanie est une république islamique, avec un président de la République comme chef d'État et de gouvernement [(Source: France Diplomatie)](https://www.diplomatie.gouv.fr/fr/dossiers-pays/mauritanie/presentation-de-la-mauritanie/)
+* **Sécurité**: La Mauritanie est considérée comme un pays stable dans la région sahélienne, malgré les menaces terroristes [(Source: Revue Conflits)](https://www.revueconflits.com/la-mauritanie-exception-securitaire-dans-le-paysage-sahelien/)
+* **Relations internationales**: La Mauritanie est membre de l'Union africaine, de la Ligue arabe et de l'Organisation de la coopération islamique [(Source: Ministère des Affaires étrangères mauritanien)](https://www.mae.gov.mr/fr/relations-internationales/)
+* **Environnement**: La Mauritanie est vulnérable aux changements climatiques, avec des problèmes de désertification et de gestion des ressources naturelles [(Source: Programme des Nations Unies pour l'environnement)](https://www.unep.org/fr/regions/africa/mauritanie)
