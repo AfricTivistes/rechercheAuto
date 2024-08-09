@@ -1,0 +1,11 @@
+* **Nom du pays**: Seychelles
+* **Langues officielles**: Le créole seychellois, le français, et l'anglais [1](https://fr.wikipedia.org/wiki/Langues_aux_Seychelles)
+* **Démographie**: La population totale est de 98 462 habitants (estimation 2020) avec une densité de population de 216,8 habitants/km² [2](https://fr.wikipedia.org/wiki/D%C3%A9mographie_des_Seychelles)
+* **Corps électoral**: Les Seychelles ont un système présidentiel, où le président est élu pour un mandat de 5 ans [3](https://www.diplomatie.gouv.fr/fr/dossiers-pays/seychelles/presentation-des-seychelles/)
+* **Géopolitique**: Les Seychelles sont membre de l'ONU depuis 1976 et membre de l'Union africaine [4](https://geolinks.fr/geopolitique/la-geopolitique-des-seychelles/)
+* **Indépendance**: Les Seychelles ont obtenu leur indépendance en 1976 [5](https://www.diplomatie.gouv.fr/fr/dossiers-pays/seychelles/presentation-des-seychelles/)
+* **Régime politique**: Les Seychelles sont une république présidentielle [6](https://fr.wikipedia.org/wiki/Seychelles)
+* **Composition ethnique**: Les Seychelles ont une population multiculturelle composée de Créoles, de Français, d'Indiens, de Chinois et d'Africains [7](https://fr.wikipedia.org/wiki/D%C3%A9mographie_des_Seychelles)
+* **Religions**: Les religions les plus pratiquées sont le catholicisme, l'anglicanisme et l'hindouisme [8](https://fr.wikipedia.org/wiki/D%C3%A9mographie_des_Seychelles)
+* **Économie**: L'économie des Seychelles est basée sur le tourisme, la pêche et l'agriculture [9](https://www.diplomatie.gouv.fr/fr/dossiers-pays/seychelles/presentation-des-seychelles/)
+* **Capital**: Victoria [10](https://fr.wikipedia.org/wiki/Victoria_(Seychelles))
